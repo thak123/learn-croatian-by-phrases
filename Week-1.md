@@ -1,8 +1,8 @@
-- Dobar dan! > Good afternoon! ![play](./Week1/PTT-20191106-WA0000.opus?raw=true)
+- Dobar dan! > Good afternoon! ![play](./Week1/PTT-20191106-WA0000.opus?raw=true){target="_blank"} 
 
-- Dobro jutro! > Good morning! [play](./Week1/PTT-20191106-WA0001.opus?raw=true)
+- Dobro jutro! > Good morning! ![play](./Week1/PTT-20191106-WA0001.opus?raw=true){target="_blank"} 
 
-- Dobra večer! > Good evening! [play](./Week1/PTT-20191106-WA0002.opus?raw=true)
+- Dobra večer! > Good evening! ![play](./Week1/PTT-20191106-WA0002.opus?raw=true)
 
 - Bok! > Hi! and Goodbye! (informal) [play](./Week1/PTT-20191106-WA0003.opus?raw=true)
 
