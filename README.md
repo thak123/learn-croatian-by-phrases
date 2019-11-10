@@ -1,4 +1,4 @@
-Learning Crotian the phrase way
+# Learning Croatian the phrase way
 
 [Week 1](./Week-1)
 
