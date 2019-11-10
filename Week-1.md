@@ -1,5 +1,5 @@
 Dobar dan! > Good afternoon! ![play](./Week1/PTT-20191106-WA0001.opus)
-
+<audio src="./Week1/PTT-20191106-WA0001.opus" controls preload></audio> 
 Dobro jutro! > Good morning! [play]()
 
 Dobra večer! > Good evening! [play]()
