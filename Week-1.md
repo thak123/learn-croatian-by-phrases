@@ -4,7 +4,7 @@
 
 - Dobra večer! > Good evening! ![play](./Week1/PTT-20191106-WA0002.opus?raw=true)
 
-- Bok! > Hi! and Goodbye! (informal) ![play](./Week1/PTT-20191106-WA0003.opus?raw=true)
+- Bok! > Hi! / Goodbye! (informal) ![play](./Week1/PTT-20191106-WA0003.opus?raw=true)
 
 - Doviđenja! > Goodbye! ![play](./Week1/PTT-20191106-WA0004.opus?raw=true)
 
